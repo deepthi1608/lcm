@@ -1,4 +1,4 @@
-iimport java.io.*;
+import java.io.*;
 
 // Driver Class
 class GFG {
